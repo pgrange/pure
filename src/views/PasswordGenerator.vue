@@ -38,7 +38,7 @@
                 <i class="fa fa-globe"></i>
                 <input id="site"
                        name="site"
-                       type="text"
+                       type="url"
                        ref="site"
                        class="form-control"
                        placeholder="Site"
@@ -60,7 +60,7 @@
                 <i class="fa fa-user"></i>
                 <input id="login"
                        name="login"
-                       type="text"
+                       type="email"
                        ref="login"
                        class="form-control"
                        placeholder="Login"
